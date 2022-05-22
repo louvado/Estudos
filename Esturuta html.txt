@@ -1,0 +1,27 @@
+Estrutura básica do HTML
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+ 	 <meta charset="utf-8">
+ 	 <title>Sérgio Scanfeld</title>
+ </head>
+ <body>
+ </section>
+ 	 <header>
+ 	   <h1>titulo da pagina</h1>
+    </header>
+    <section>
+ 	   <header>
+ 		  <h2>Posts<h2>
+ 	   </header>
+ 	   <article>
+        <header>
+	       <h3>post #1</h3>
+        </header>
+ 	   </article>
+    </section> 
+    <footer></footer>
+  </body
+</html>
